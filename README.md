@@ -62,3 +62,9 @@ diffusion-from-scratch/
 - Python 3.9+
 - PyTorch 2.0+
 - CUDA (optional, for GPU training)
+
+## 📝 References
+- https://deeplearning.neuromatch.io/tutorials/W2D4_GenerativeModels/student/W2D4_Tutorial2.html
+- https://keras.io/examples/generative/ddpm/
+- https://johnowhitaker.github.io/tglcourse/
+- https://huggingface.co/learn/diffusion-course/unit2/2
